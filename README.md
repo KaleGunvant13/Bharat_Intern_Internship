@@ -1,5 +1,6 @@
 # Bharat_Intern Internship
-#Titanic Classification:
+**Titanic Classification:**
+
 Overview:
 This project involves building a predictive model to determine the likelihood of survival for passengers on the Titanic using data science techniques in Python.
 
@@ -20,7 +21,8 @@ Include visualizations or tables summarizing the model's performance and insight
 Future Improvements:
 Discuss potential avenues for improvement, such as trying different algorithms, incorporating additional features, or optimizing model parameters.
 
-#Cat and Dog Image Classifier:
+**Cat and Dog Image Classifier:**
+
 Overview:
 This project aims to develop an image classification model to distinguish between images of cats and dogs using data science techniques in Python.
 
